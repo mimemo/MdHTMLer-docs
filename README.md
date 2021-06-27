@@ -11,7 +11,7 @@ convert markdown to html whole folder.
 ---
 
 ## Store:
-<a href='//www.microsoft.com/store/apps/9p8pz7vw2st3?cid=storebadge&ocid=badge'><img src='https://developer.microsoft.com/store/badges/images/Japanese_-get-it-from-MS.png' alt='Japanese badge' style='width: 284px; height: 104px;'/></a>
+<a href='//www.microsoft.com/store/apps/9p8pz7vw2st3?cid=storebadge&ocid=badge'><img width="144px" src='https://developer.microsoft.com/store/badges/images/Japanese_-get-it-from-MS.png' alt='Japanese badge' style='width: 144px; height: 54px;'/></a>
 
 ---
 in japanese: 
@@ -34,6 +34,10 @@ in japanese:
 
 
 ## 履歴
+
+### ver 1.1 (2021/06/27)
+- 処理速度改善
+- 見た目 改善
 
 ### ver 1.0  (2021/06/22)
 - 初期版
@@ -66,6 +70,10 @@ in english:
 5. If all goes well, you will have an HTML file in the destination folder.
 
 ## History
+
+## ver 1.1 (2021/06/27)
+- Performance improvements.
+- UI improvements. (Progress bar added.)
 
 ### ver 1.0  (2021/06/22)
 - initial version
