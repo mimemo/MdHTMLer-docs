@@ -35,6 +35,9 @@ in japanese:
 
 ## 履歴
 
+### ver 1.1 (2021/06/29)
+- 不具合修正
+
 ### ver 1.1 (2021/06/27)
 - 処理速度改善
 - 見た目 改善
@@ -71,7 +74,10 @@ in english:
 
 ## History
 
-## ver 1.1 (2021/06/27)
+### ver 1.2 (2021/06/29)
+- bug fixed.
+
+### ver 1.1 (2021/06/27)
 - Performance improvements.
 - UI improvements. (Progress bar added.)
 
