@@ -35,7 +35,11 @@ in japanese:
 
 ## 履歴
 
-### ver 1.1 (2021/06/29)
+### ver 1.3 (2021/07/01)
+- 目次の文言を少しだけ カスタマイズ可能にした
+- 不具合修正
+
+### ver 1.2 (2021/06/29)
 - 不具合修正
 
 ### ver 1.1 (2021/06/27)
@@ -74,8 +78,12 @@ in english:
 
 ## History
 
+### ver 1.3 (2021/07/01)
+- Add feature to custom wording of TOC slightly.
+- Fixed bug.
+
 ### ver 1.2 (2021/06/29)
-- bug fixed.
+- Fixed bug.
 
 ### ver 1.1 (2021/06/27)
 - Performance improvements.
