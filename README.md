@@ -35,6 +35,9 @@ in japanese:
 
 ## 履歴
 
+### ver 1.4 (2021/07/16)
+- サブフォルダが無視される不具合を修正
+
 ### ver 1.3 (2021/07/01)
 - 目次の文言を少しだけ カスタマイズ可能にした
 - 不具合修正
@@ -78,6 +81,9 @@ in english:
 
 ## History
 
+### ver 1.4 (2021/07/16)
+- Fixed bug. (Sub-folder ignored...)
+- 
 ### ver 1.3 (2021/07/01)
 - Add feature to custom wording of TOC slightly.
 - Fixed bug.
