@@ -25,8 +25,10 @@ in japanese:
 1. マークダウンファイルの入ったフォルダを用意
 2. Step1.で用意したフォルダを指定
 3. 書き出し先のフォルダを指定
-4. エクスポートボタンをクリック
-5. （うまくいけば）エクスポート先のフォルダにHTMLファイルができる
+4. （オプション）目次タイトルを変更
+5. （オプション）目次アイコンを指定（灰色ボタンをクリック）
+6. エクスポートボタンをクリック
+7. （うまくいけば）エクスポート先のフォルダにHTMLファイルができる
 
 ## 既知の不具合
 
@@ -34,6 +36,10 @@ in japanese:
 
 
 ## 履歴
+
+### ver 1.5 (2021/08/11)
+- 目次アイコンを指定する機能追加
+- 不具合修正（前回選択したフォルダの復元）
 
 ### ver 1.4 (2021/07/16)
 - サブフォルダが無視される不具合を修正
@@ -76,10 +82,16 @@ in english:
 1. prepare a folder containing markdown files
 2. specify the folder you prepared in 1.
 3. specify the destination folder
-4. click the Export button
-5. If all goes well, you will have an HTML file in the destination folder.
+4. (Optional) Change the title of the table of contents.
+5. (Optional) Specify the table of contents icon (click the gray button)
+6. click the Export button
+7. If all goes well, you will have an HTML file in the destination folder.
 
 ## History
+
+### ver 1.5 (2021/08/11)
+- User can select table of contents icon.
+- Fixed bugs 
 
 ### ver 1.4 (2021/07/16)
 - Fixed bug. (Sub-folder ignored...)
