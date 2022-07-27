@@ -2,11 +2,11 @@
 
 convert markdown to html whole folder.
 
+![appicon](./app.png)
 
 ## PrivacyPolicy
 
 - [PrivacyPolicy](./privacypolicy.md)
-
 
 ---
 
@@ -23,12 +23,9 @@ in japanese:
 
 ## 使い方 
 1. マークダウンファイルの入ったフォルダを用意
-2. Step1.で用意したフォルダを指定
-3. 書き出し先のフォルダを指定
-4. （オプション）目次タイトルを変更
-5. （オプション）目次アイコンを指定（灰色ボタンをクリック）
-6. エクスポートボタンをクリック
-7. （うまくいけば）エクスポート先のフォルダにHTMLファイルができる
+2. Step1.で用意したフォルダを(ドロップで）指定
+3. 「出力」ボタンをクリック
+4. （うまくいけば）出力先のフォルダにHTMLファイルができる
 
 ## 既知の不具合
 
@@ -36,6 +33,10 @@ in japanese:
 
 
 ## 履歴
+
+### ver 1.6 (2022/07/27)
+- 見た目 改善
+- 不具合修正
 
 ### ver 1.5 (2021/08/11)
 - 目次アイコンを指定する機能追加
@@ -79,15 +80,17 @@ in english:
 
 
 ## Usage: 
-1. prepare a folder containing markdown files
-2. specify the folder you prepared in 1.
-3. specify the destination folder
-4. (Optional) Change the title of the table of contents.
-5. (Optional) Specify the table of contents icon (click the gray button)
-6. click the Export button
-7. If all goes well, you will have an HTML file in the destination folder.
+1. Prepare a folder containing markdown files
+2. Drop folder that you prepared in step 1.
+3. Click the Export button
+4. If all goes well, you will have an HTML file in the destination folder.
 
 ## History
+
+
+### ver 1.6 (2022/07/27)
+- UI improvements.
+- Fixed bugs 
 
 ### ver 1.5 (2021/08/11)
 - User can select table of contents icon.

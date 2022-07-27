@@ -10,9 +10,9 @@ Twitter:@Kawaishi2
 ---
 ## Privacy policy
 
-** AppF MdHTMLer **
+** Appï¼š MdHTMLer **
 
-‚±‚ÌƒAƒvƒŠ‚É‚æ‚Á‚ÄA‚¨‹q—l‚ÌŒÂlî•ñ‚È‚ç‚Ñ‚Éƒvƒ‰ƒCƒoƒV[‚ÉŠÖ‚í‚éî•ñ‚ğûW‚µ‚Ü‚¹‚ñB
+ã“ã®ã‚¢ãƒ—ãƒªã«ã‚ˆã£ã¦ã€ãŠå®¢æ§˜ã®å€‹äººæƒ…å ±ãªã‚‰ã³ã«ãƒ—ãƒ©ã‚¤ãƒã‚·ãƒ¼ã«é–¢ã‚ã‚‹æƒ…å ±ã‚’åé›†ã—ã¾ã›ã‚“ã€‚
 
 With this application, we will not gather information about your personal information and privacy.
 
