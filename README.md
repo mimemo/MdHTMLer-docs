@@ -1,8 +1,10 @@
 # MdHTMLer-docs
 
+![appicon](./app.png)
+
 convert markdown to html whole folder.
 
-![appicon](./app.png)
+---
 
 ## PrivacyPolicy
 

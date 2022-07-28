@@ -1,7 +1,10 @@
-# MdHTMLer
----
+# Privacy Policy
 
-convert markdown to html whole folder.
+--
+
+## App：MdHTMLer
+
+Convert Markdown to Html whole folder.
 
 ## Support
 
