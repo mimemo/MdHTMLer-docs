@@ -8,7 +8,13 @@ convert markdown to html whole folder.
 
 ## PrivacyPolicy
 
-- [PrivacyPolicy](./privacypolicy.md)
+- [PrivacyPolicy Page](./privacypolicy.md)
+
+
+## Usage
+
+- [Usage Page](./manual/README.md)
+
 
 ---
 
